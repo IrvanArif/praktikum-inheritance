@@ -9,4 +9,4 @@ class manajer extends Pegawai {
         nama=n;
         departemen=d;
     }
-}
+} 
